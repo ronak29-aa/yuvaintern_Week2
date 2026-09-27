@@ -1,0 +1,7 @@
+{
+  "dataset": "Iris",
+  "records": 150,
+  "visualizations": 6,
+  "pca_variance_two_components": 0.9581320720000163,
+  "report": "Week2_Advanced_Data_Visualization_Storytelling_Report.docx"
+}
